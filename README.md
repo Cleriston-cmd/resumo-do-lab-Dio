@@ -56,6 +56,14 @@ Implementação de funcionalidades interativas e otimização da experiência do
 
 **Revisão dos Benefícios da Nuvem Azure:** Compreensão das principais vantagens da adoção da nuvem Azure e como elas impactam positivamente a infraestrutura e os serviços das empresas.
 
+## Tipos de Serviço de Nuvem na Azure:
+
+**IaaS, PaaS e SaaS na Azure:** Entendimento dos três principais modelos de serviço na nuvem Azure - Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS) - e suas respectivas responsabilidades e benefícios.
+
+**Modelo de Responsabilidade Compartilhada:** Conhecimento sobre como as responsabilidades são distribuídas entre o provedor de nuvem e o cliente em cada um dos modelos de serviço.
+
+**Revisão dos Tipos de Serviço de Nuvem:** Recapitulação dos diferentes tipos de serviço na nuvem Azure e como escolher o modelo mais adequado para diferentes necessidades de negócios.
+
 ## Ferramentas e Bibliotecas Utilizadas:
 
 Uso do Axios para fazer requisições HTTP e manipulação de dados.
