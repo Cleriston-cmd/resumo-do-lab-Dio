@@ -46,6 +46,16 @@ Criação de projetos em React, utilizando JavaScript e HTML.
 Estruturação de componentes e gerenciamento de estado.
 Implementação de funcionalidades interativas e otimização da experiência do usuário.
 
+## Benefícios da Nuvem Azure:
+
+**Escalabilidade e Elasticidade:** Capacidade de aumentar ou diminuir recursos conforme a demanda, garantindo agilidade e eficiência no atendimento das requisições.
+
+**Confiabilidade, Previsibilidade e Segurança:** Oferece alta disponibilidade, segurança robusta e previsibilidade nos custos, permitindo uma gestão eficiente e segura dos recursos.
+
+**Governança e Gerenciabilidade:** Facilita o gerenciamento de ambientes de nuvem através de ferramentas como o Portal Azure e linha de comando, garantindo controle e conformidade.
+
+**Revisão dos Benefícios da Nuvem Azure:** Compreensão das principais vantagens da adoção da nuvem Azure e como elas impactam positivamente a infraestrutura e os serviços das empresas.
+
 ## Ferramentas e Bibliotecas Utilizadas:
 
 Uso do Axios para fazer requisições HTTP e manipulação de dados.
